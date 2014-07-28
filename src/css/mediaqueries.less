@@ -1,0 +1,46 @@
+@two-or-three-column:    ~"(min-width: 768px), (min-width: 600px) and (max-width: 767px) and (max-aspect-ratio: 13/9)";
+
+@all-three-column:       ~"(min-width: 990px)";
+@three-column-large:     ~"(min-width: 1280px)";
+@three-column-small:     ~"(min-width: 990px) and (max-width: 1279px)";
+
+@all-two-column:         ~"(min-width: 768px) and (max-width: 989px), (min-width: 600px) and (max-width: 767px) and (max-aspect-ratio: 13/9)";
+@two-column-large:       ~"(min-width: 768px) and (max-width: 989px)";
+
+@two-column-small:       ~"(min-width: 600px) and (max-width: 767px) and (max-aspect-ratio: 13/9)";
+
+
+@all-one-column:         ~"(max-width: 767px) and (min-aspect-ratio: 13/9), (max-width: 599px)";
+@one-column-extra-large: ~"(min-width: 640px) and (max-width: 767px) and (min-aspect-ratio: 13/9)";
+
+@one-column-up-to-large: ~"(max-width: 599px), (min-width: 600px) and (max-width: 639px) and (min-aspect-ratio: 13/9)";
+@one-column-large:       ~"(min-width: 568px) and (max-width: 599px), (min-width: 600px) and (max-width: 639px) and (min-aspect-ratio: 13/9)";
+
+@one-column-up-to-medium:  ~"(max-width: 567px)";
+@one-column-medium:        ~"(max-width: 567px) and (min-width: 480px)";
+
+@one-column-up-to-small:   ~"(max-width: 479px)";
+@one-column-small:         ~"(max-width: 479px) and (min-width: 360px)";
+
+@one-column-minimum: ~"(max-width: 359px)";
+
+@all-tablets: @two-or-three-column;
+
+@tablet-landscape: @all-three-column;
+@tablet-landscape-large: @three-column-large;
+@tablet-landscape-small: @three-column-small;
+
+@tablet-portrait: @all-two-column;
+@tablet-portrait-large: @two-column-large;
+@tablet-portrait-small: @two-column-small;
+
+@phone: @all-one-column;
+@phone-landscape: ~"(max-width: 767px) and (min-aspect-ratio: 13/9)";
+@phone-landscape-large: @one-column-extra-large;
+@phone-landscape-medium: @one-column-large;
+@phone-landscape-small: @one-column-medium;
+
+@phone-portrait: @one-column-up-to-small;
+@phone-portrait-large: @one-column-small;
+@phone-portrait-small: @one-column-minimum;
+

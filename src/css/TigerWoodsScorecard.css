@@ -1,0 +1,218 @@
+#tiger_woods_scorecard {
+	width: 990px;
+	height: 450px;
+	background-color: #EEE;
+	padding: 20px;
+}
+
+#tiger_woods_scorecard .left {
+	float: left;
+}
+
+#tiger_woods_scorecard .right {
+	float: right;
+}
+
+#tiger_woods_scorecard .clrfix {
+	clear: both;
+}
+
+#tiger_woods_scorecard h1 {
+	font: 23px 'osp-dindin';
+	color: #a71930;
+	margin:0;
+}
+
+#tiger_woods_scorecard h2 {
+	font: 18px 'franklin_gothic_mediumregular';
+	color: #333;
+	margin:0;
+}
+
+#tiger_woods_scorecard h3 {
+	font: 17px 'franklin_gothic_bookregular';
+	color: #333;
+	margin:0;
+}
+
+#tiger_woods_scorecard #scorecard-title {
+	margin-bottom: 5px;
+}
+
+#tiger_woods_scorecard #round-selector span#label {
+	font: 17px 'franklin_gothic_bookregular';
+	margin-right: 15px;
+}
+
+#tiger_woods_scorecard #round-selector ul {
+	list-style:none;
+	margin: 0;
+	padding: 0;
+}
+
+#tiger_woods_scorecard #round-selector ul li {
+	font: 17px 'franklin_gothic_bookregular';
+	display: inline-block;
+	margin: 0 10px;
+	cursor: pointer;
+}
+
+#tiger_woods_scorecard #round-selector ul li.active {
+	color: #a71930;
+}
+
+#tiger_woods_scorecard #round-selector ul li.disabled {
+	color: #ccc;
+	cursor: auto;
+}
+
+#tiger_woods_scorecard .section {
+	margin-bottom: 20px;
+}
+
+#tiger_woods_scorecard table {
+	margin-top:5px;
+	border-collapse: collapse;
+	color: #666;
+	width: 100%;
+	box-shadow: 0 7px 9px #CCC;
+}
+
+#tiger_woods_scorecard table thead {
+	background-color: #DDD;
+}
+
+#tiger_woods_scorecard table thead th {
+	padding: 9px;
+	border-right: 1px solid #CCC;
+	font: 14px 'franklin_gothic_bookregular';
+	font-weight: bold;
+}
+
+#tiger_woods_scorecard table thead th.last {
+	border-right: none;
+}
+
+#tiger_woods_scorecard table td {
+	text-align: center;
+	background-color: #FFF;
+	font: 14px 'franklin_gothic_bookregular';
+	font-weight: bold;
+	padding: 9px;
+	border-right: 1px solid #CCC;
+	width: 0px;
+}
+
+#tiger_woods_scorecard table td.last {
+	border-right: none;
+}
+
+#tiger_woods_scorecard table td.first {
+	border-top: 1px solid #CCC;
+	background-color: #DDD;
+}
+
+#tiger_woods_scorecard table .wide {
+	width: 30px;
+}
+
+#tiger_woods_scorecard table .first.wide {
+	width: 50px;
+	text-align: left;
+}
+
+#tiger_woods_scorecard #scorecard tbody td {
+	border-top: 1px solid #CCC;
+}
+
+#tiger_woods_scorecard #legend h2 {
+	color: #666;
+	font-size: 16px;
+	margin: -1px 16px 0 8px;
+}
+
+#tiger_woods_scorecard ul.legend {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+#tiger_woods_scorecard ul.legend li { 
+	display: inline-block;
+	margin-right: 10px;
+	font: 12px 'franklin_gothic_bookregular';
+	font-weight: bold;
+	color: #666;
+}
+
+#tiger_woods_scorecard ul.legend li div {
+	float: left;
+	width: 16px;
+	height: 16px;
+	margin-right: 8px;
+}
+
+/** legend color codes **/
+
+#tiger_woods_scorecard .double-eagle {
+	background-color: #6facd8;
+}
+
+#tiger_woods_scorecard .eagle {
+	background-color: #8de1f7;
+}
+
+#tiger_woods_scorecard .birdie {
+	background-color: #deeaf4;
+}
+
+#tiger_woods_scorecard .par {
+	background-color: #FFF;
+}
+
+#tiger_woods_scorecard .bogey {
+	background-color: #fceabc;
+}
+
+#tiger_woods_scorecard .double-bogey {
+	background-color: #fcb77d;
+}
+
+#tiger_woods_scorecard .triple-bogey {
+	background-color: #d78d6a;
+}
+
+/** custom fonts **/
+
+@font-face {
+    font-family: 'osp-dindin';
+    src: url('fonts/osp-din/osp-din-webfont.eot');
+    src: url('fonts/osp-din/osp-din-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/osp-din/osp-din-webfont.woff') format('woff'),
+         url('fonts/osp-din/osp-din-webfont.ttf') format('truetype'),
+         url('fonts/osp-din/osp-din-webfont.svg#osp-dindin') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'franklin_gothic_mediumregular';
+    src: url('fonts/franklin-gothic/medium/franklin_gothic_medium-webfont.eot');
+    src: url('fonts/franklin-gothic/medium/franklin_gothic_medium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/franklin-gothic/medium/franklin_gothic_medium-webfont.woff') format('woff'),
+         url('fonts/franklin-gothic/medium/franklin_gothic_medium-webfont.ttf') format('truetype'),
+         url('fonts/franklin-gothic/medium/franklin_gothic_medium-webfont.svg#franklin_gothic_mediumregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'franklin_gothic_bookregular';
+    src: url('fonts/franklin-gothic/book/franklin_gothic_book-webfont.eot');
+    src: url('fonts/franklin-gothic/book/franklin_gothic_book-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/franklin-gothic/book/franklin_gothic_book-webfont.woff') format('woff'),
+         url('fonts/franklin-gothic/book/franklin_gothic_book-webfont.ttf') format('truetype'),
+         url('fonts/franklin-gothic/book/franklin_gothic_book-webfont.svg#franklin_gothic_bookregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}

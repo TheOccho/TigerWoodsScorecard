@@ -1,0 +1,169 @@
+@media only screen and (min-width: 640px) {
+	#home_index {
+		.logo-tigerwoods {
+			width: 272px;
+			height: 233px;
+			padding: 26px;
+			left: 0;
+			background-image: -ms-linear-gradient(top, #F8F8F8 0%, #D8D8D8 100%);
+			background-image: -moz-linear-gradient(top, #F8F8F8 0%, #D8D8D8 100%);
+			background-image: linear-gradient(to bottom, #F8F8F8 0%, #D8D8D8 100%);
+		}
+
+		nav[role="megamenu"] {
+			left: 272px;
+			height: 183px;
+			
+			nav[role="megamenu-submenu"] {
+				height: 183px;
+			}
+		}
+	}
+
+	.container-breaking-bar {
+		display: block;
+	}
+
+	.container {
+		padding: 0 20px 20px;
+		max-width: 990px;
+	}
+
+	.container-columns {
+		& > section {
+			float: left;
+			width: 100%;
+			margin-left: -320px;
+			padding-left: 320px;
+		}
+
+		& > aside {
+			float: left;
+			padding-left: 20px;
+			width: 320px;
+		}
+	}
+
+	.module-tournament-detail {
+		.table-vertical {
+			display: none;
+		}
+
+		.table-horizontal {
+			display: table;
+		}
+	}
+
+	.article-index {
+		article {
+			margin-bottom: 20px;
+
+			& + article {
+				padding-top: 20px;
+			}
+
+			img {
+				display: block;
+			}
+		}
+	}
+
+	footer {
+		h1 {
+			display: none;
+		}
+
+		a {
+			color: #bbb;
+			font-size: 18px;
+		}
+
+		.container-footer {
+			display: block;
+
+			&>ul {
+				&>li {
+					float: left;
+					width: 33.3333333333%;
+					margin: 20px 0 0;
+					
+					h3 {
+						margin-top: 0;
+					}
+
+					ul {
+						li {
+							float: left;
+							padding: 5px 0;
+							width: 40%;
+						}
+					}
+				}
+			}
+		}
+	}
+}
+
+@media only screen and (min-width: 960px) {
+	.button-megamenu {
+		display: none;
+	}
+
+	#home_index {
+		nav[role="megamenu"] {
+			left: 0;
+		}
+	}
+
+	nav[role="megamenu"] {
+		width: 100%;
+		background: transparent;
+		padding: 0;
+		top: 0;
+		left: 0;
+		padding-left: 282px;
+		
+		& > ul > li {
+			&:hover nav[role="megamenu-submenu"] {
+				display: block;
+			} 
+		}
+
+		nav[role="megamenu-submenu"] {
+			background: #333;
+			position: absolute;
+			width: 100%;
+			left: 0;
+			padding-left: 272px;
+			font-size: 20px;
+
+
+			& > ul {
+				padding: 20px 8%;
+
+				& > li {
+					width: 50%;
+					padding: 5px 0;
+
+					& > a {
+						line-height: normal;
+					}
+				}
+			}
+		}
+
+		ul {
+			margin: 0 auto;
+		}
+
+		ul > li {
+			width: auto;
+			padding: 0px 20px;
+			float: left;
+
+			a {
+				line-height: 50px;
+			}
+		}
+	}
+}

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<Scorecards CurrentTime="11:30 AM ET. 12/09/2013" Directory="" TournamentName="Northwestern Mutual World Challenge" TournamentTourType="TOR" TournamentNumber="478" IsEventOfficial="Yes" CurrentRound="4" HostCourse="Sherwood CC" Yardage="7,023" Purse="$3,500,000" ScheduledDates="12/ 5/2013 - 12/ 8/2013" WinningShare="$0">
+  <Player IsMember="Yes" IsBackNineStart="No" PlayerName="Tiger Woods" TournamentPlayerId="08793" ParRelativeScore="-13" Score="275" StartingHole="1" ParRelativeScoreToday="-2" NumberOfHolesPlayed="F" CurrentPosition="2" StandingsSortIndex="2">
+    <Round ParRelativeScoreToday="-1" RoundNumber="1" RoundScore="71" Out="36" In="35" Front9Par="36" Back9Par="36" TotalPar="72" CourseName="Sherwood CC" StartingHole="1">
+      <Hole HoleNumber="1" HolePar="4" HoleScore="5" HoleParRelativeScoreSoFar="1"/>
+      <Hole HoleNumber="2" HolePar="5" HoleScore="5" HoleParRelativeScoreSoFar="1"/>
+      <Hole HoleNumber="3" HolePar="3" HoleScore="3" HoleParRelativeScoreSoFar="1"/>
+      <Hole HoleNumber="4" HolePar="4" HoleScore="4" HoleParRelativeScoreSoFar="1"/>
+      <Hole HoleNumber="5" HolePar="5" HoleScore="4" HoleParRelativeScoreSoFar="0"/>
+      <Hole HoleNumber="6" HolePar="4" HoleScore="4" HoleParRelativeScoreSoFar="0"/>
+      <Hole HoleNumber="7" HolePar="4" HoleScore="4" HoleParRelativeScoreSoFar="0"/>
+      <Hole HoleNumber="8" HolePar="3" HoleScore="3" HoleParRelativeScoreSoFar="0"/>
+      <Hole HoleNumber="9" HolePar="4" HoleScore="4" HoleParRelativeScoreSoFar="0"/>
+      <Hole HoleNumber="10" HolePar="4" HoleScore="4" HoleParRelativeScoreSoFar="0"/>
+      <Hole HoleNumber="11" HolePar="5" HoleScore="4" HoleParRelativeScoreSoFar="-1"/>
+      <Hole HoleNumber="12" HolePar="3" HoleScore="3" HoleParRelativeScoreSoFar="-1"/>
+      <Hole HoleNumber="13" HolePar="5" HoleScore="5" HoleParRelativeScoreSoFar="-1"/>
+      <Hole HoleNumber="14" HolePar="4" HoleScore="4" HoleParRelativeScoreSoFar="-1"/>
+      <Hole HoleNumber="15" HolePar="3" HoleScore="3" HoleParRelativeScoreSoFar="-1"/>
+      <Hole HoleNumber="16" HolePar="5" HoleScore="5" HoleParRelativeScoreSoFar="-1"/>
+      <Hole HoleNumber="17" HolePar="3" HoleScore="3" HoleParRelativeScoreSoFar="-1"/>
+      <Hole HoleNumber="18" HolePar="4" HoleScore="4" HoleParRelativeScoreSoFar="-1"/>
+    </Round>
+    <Round ParRelativeScoreToday="-10" RoundNumber="2" RoundScore="62" Out="31" In="31" Front9Par="36" Back9Par="36" TotalPar="72" CourseName="Sherwood CC" StartingHole="1">
+      <Hole HoleNumber="1" HolePar="4" HoleScore="3" HoleParRelativeScoreSoFar="-1"/>
+      <Hole HoleNumber="2" HolePar="5" HoleScore="4" HoleParRelativeScoreSoFar="-2"/>
+      <Hole HoleNumber="3" HolePar="3" HoleScore="3" HoleParRelativeScoreSoFar="-2"/>
+      <Hole HoleNumber="4" HolePar="4" HoleScore="3" HoleParRelativeScoreSoFar="-3"/>
+      <Hole HoleNumber="5" HolePar="5" HoleScore="5" HoleParRelativeScoreSoFar="-3"/>
+      <Hole HoleNumber="6" HolePar="4" HoleScore="4" HoleParRelativeScoreSoFar="-3"/>
+      <Hole HoleNumber="7" HolePar="4" HoleScore="3" HoleParRelativeScoreSoFar="-4"/>
+      <Hole HoleNumber="8" HolePar="3" HoleScore="2" HoleParRelativeScoreSoFar="-5"/>
+      <Hole HoleNumber="9" HolePar="4" HoleScore="4" HoleParRelativeScoreSoFar="-5"/>
+      <Hole HoleNumber="10" HolePar="4" HoleScore="3" HoleParRelativeScoreSoFar="-6"/>
+      <Hole HoleNumber="11" HolePar="5" HoleScore="4" HoleParRelativeScoreSoFar="-7"/>
+      <Hole HoleNumber="12" HolePar="3" HoleScore="3" HoleParRelativeScoreSoFar="-7"/>
+      <Hole HoleNumber="13" HolePar="5" HoleScore="4" HoleParRelativeScoreSoFar="-8"/>
+      <Hole HoleNumber="14" HolePar="4" HoleScore="3" HoleParRelativeScoreSoFar="-9"/>
+      <Hole HoleNumber="15" HolePar="3" HoleScore="3" HoleParRelativeScoreSoFar="-9"/>
+      <Hole HoleNumber="16" HolePar="5" HoleScore="4" HoleParRelativeScoreSoFar="-10"/>
+      <Hole HoleNumber="17" HolePar="3" HoleScore="3" HoleParRelativeScoreSoFar="-10"/>
+      <Hole HoleNumber="18" HolePar="4" HoleScore="4" HoleParRelativeScoreSoFar="-10"/>
+    </Round>
+    <Round ParRelativeScoreToday="E" RoundNumber="3" RoundScore="72" Out="37" In="35" Front9Par="36" Back9Par="36" TotalPar="72" CourseName="Sherwood CC" StartingHole="1">
+      <Hole HoleNumber="1" HolePar="4" HoleScore="4" HoleParRelativeScoreSoFar="0"/>
+      <Hole HoleNumber="2" HolePar="5" HoleScore="4" HoleParRelativeScoreSoFar="-1"/>
+      <Hole HoleNumber="3" HolePar="3" HoleScore="3" HoleParRelativeScoreSoFar="-1"/>
+      <Hole HoleNumber="4" HolePar="4" HoleScore="5" HoleParRelativeScoreSoFar="0"/>
+      <Hole HoleNumber="5" HolePar="5" HoleScore="5" HoleParRelativeScoreSoFar="0"/>
+      <Hole HoleNumber="6" HolePar="4" HoleScore="4" HoleParRelativeScoreSoFar="0"/>
+      <Hole HoleNumber="7" HolePar="4" HoleScore="4" HoleParRelativeScoreSoFar="0"/>
+      <Hole HoleNumber="8" HolePar="3" HoleScore="4" HoleParRelativeScoreSoFar="1"/>
+      <Hole HoleNumber="9" HolePar="4" HoleScore="4" HoleParRelativeScoreSoFar="1"/>
+      <Hole HoleNumber="10" HolePar="4" HoleScore="3" HoleParRelativeScoreSoFar="0"/>
+      <Hole HoleNumber="11" HolePar="5" HoleScore="5" HoleParRelativeScoreSoFar="0"/>
+      <Hole HoleNumber="12" HolePar="3" HoleScore="3" HoleParRelativeScoreSoFar="0"/>
+      <Hole HoleNumber="13" HolePar="5" HoleScore="6" HoleParRelativeScoreSoFar="1"/>
+      <Hole HoleNumber="14" HolePar="4" HoleScore="4" HoleParRelativeScoreSoFar="1"/>
+      <Hole HoleNumber="15" HolePar="3" HoleScore="4" HoleParRelativeScoreSoFar="2"/>
+      <Hole HoleNumber="16" HolePar="5" HoleScore="4" HoleParRelativeScoreSoFar="1"/>
+      <Hole HoleNumber="17" HolePar="3" HoleScore="3" HoleParRelativeScoreSoFar="1"/>
+      <Hole HoleNumber="18" HolePar="4" HoleScore="3" HoleParRelativeScoreSoFar="0"/>
+    </Round>
+    <Round ParRelativeScoreToday="-2" RoundNumber="4" RoundScore="70" Out="34" In="36" Front9Par="36" Back9Par="36" TotalPar="72" CourseName="Sherwood CC" StartingHole="1">
+      <Hole HoleNumber="1" HolePar="4" HoleScore="4" HoleParRelativeScoreSoFar="0"/>
+      <Hole HoleNumber="2" HolePar="5" HoleScore="4" HoleParRelativeScoreSoFar="-1"/>
+      <Hole HoleNumber="3" HolePar="3" HoleScore="3" HoleParRelativeScoreSoFar="-1"/>
+      <Hole HoleNumber="4" HolePar="4" HoleScore="4" HoleParRelativeScoreSoFar="-1"/>
+      <Hole HoleNumber="5" HolePar="5" HoleScore="4" HoleParRelativeScoreSoFar="-2"/>
+      <Hole HoleNumber="6" HolePar="4" HoleScore="4" HoleParRelativeScoreSoFar="-2"/>
+      <Hole HoleNumber="7" HolePar="4" HoleScore="4" HoleParRelativeScoreSoFar="-2"/>
+      <Hole HoleNumber="8" HolePar="3" HoleScore="3" HoleParRelativeScoreSoFar="-2"/>
+      <Hole HoleNumber="9" HolePar="4" HoleScore="4" HoleParRelativeScoreSoFar="-2"/>
+      <Hole HoleNumber="10" HolePar="4" HoleScore="4" HoleParRelativeScoreSoFar="-2"/>
+      <Hole HoleNumber="11" HolePar="5" HoleScore="5" HoleParRelativeScoreSoFar="-2"/>
+      <Hole HoleNumber="12" HolePar="3" HoleScore="3" HoleParRelativeScoreSoFar="-2"/>
+      <Hole HoleNumber="13" HolePar="5" HoleScore="5" HoleParRelativeScoreSoFar="-2"/>
+      <Hole HoleNumber="14" HolePar="4" HoleScore="5" HoleParRelativeScoreSoFar="-1"/>
+      <Hole HoleNumber="15" HolePar="3" HoleScore="3" HoleParRelativeScoreSoFar="-1"/>
+      <Hole HoleNumber="16" HolePar="5" HoleScore="4" HoleParRelativeScoreSoFar="-2"/>
+      <Hole HoleNumber="17" HolePar="3" HoleScore="3" HoleParRelativeScoreSoFar="-2"/>
+      <Hole HoleNumber="18" HolePar="4" HoleScore="4" HoleParRelativeScoreSoFar="-2"/>
+    </Round>
+    <Round ParRelativeScoreToday="E" RoundNumber="401" RoundScore="" Out="" In="" Front9Par="0" Back9Par="15" TotalPar="15" CourseName="Sherwood CC" StartingHole="0">
+      <Hole HoleNumber="18" HolePar="4" HoleScore="5" HoleParRelativeScoreSoFar="1"/>
+      <Hole HoleNumber="10" HolePar="4" HoleScore="0" HoleParRelativeScoreSoFar="1"/>
+      <Hole HoleNumber="17" HolePar="3" HoleScore="0" HoleParRelativeScoreSoFar="1"/>
+      <Hole HoleNumber="18" HolePar="4" HoleScore="0" HoleParRelativeScoreSoFar="1"/>
+    </Round>
+  </Player>
+</Scorecards>

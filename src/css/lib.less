@@ -1,0 +1,72 @@
+/*------------------
+	LESS LIBRARIES
+--------------------*/
+
+.font(@font:open_sansregular, @weight:normal) {
+  font-family: @font, sans_serif;
+  font-weight: @weight;
+}
+
+// Border Radius
+.border-radius(@_, @radius){
+    -moz-background-clip: padding;
+    -webkit-background-clip: padding-box;
+    background-clip: padding-box;
+}
+.border-radius(all, @radius) {
+  -webkit-border-radius: @radius;
+     -moz-border-radius: @radius;
+          border-radius: @radius;
+}
+.border-radius(topLeft, @radius) {
+  -webkit-border-top-left-radius: @radius;
+      -moz-border-radius-topleft: @radius;
+          border-top-left-radius: @radius;
+}
+.border-radius(topRight, @radius) {
+  -webkit-border-top-right-radius: @radius;
+      -moz-border-radius-topright: @radius;
+          border-top-right-radius: @radius;
+}
+.border-radius(bottomRight, @radius) {
+  -webkit-border-bottom-right-radius: @radius;
+      -moz-border-radius-bottomright: @radius;
+          border-bottom-right-radius: @radius;
+}
+.border-radius(bottomLeft, @radius) {
+  -webkit-border-bottom-left-radius: @radius;
+      -moz-border-radius-bottomleft: @radius;
+          border-bottom-left-radius: @radius;
+}
+
+@container-width: 990px;
+@gutter-width: 20px;
+
+@headline-font-size: 20px;
+@byline-font-size: 16px;
+@default-font-size: 14px;
+
+@headline-font-family: "DINEngschriftStd", Helvetica, Arial, sans-serif;
+@byline-font-family: "FranklinGothic-Medium", Helvetica, Arial, sans-serif;
+@default-font-family: "FranklinGothic-Book", Helvetica, Arial, sans-serif;
+
+@default-color-black: #000;
+@default-color-red: #a71930;
+@default-color-lightgrey: #eee;
+@default-color-white: #fff;
+
+@headline-color: #a71930;
+@byline-color: #333;
+@default-font-color: #333;
+
+@text-color-darkest: #333;
+@text-color-dark: #555;
+@text-color-light: #a71930;
+
+@score-double-eagle: #5e9bce;
+@score-eagle: #82d7fb;
+@score-birdie: #d7e5f1;
+@score-par: #fff;
+@score-bogey: #fae6af;
+@score-double-bogey: #fba86b;
+@score-3plus-bogey: #cc7b57;

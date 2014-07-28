@@ -1,0 +1,231 @@
+@headline-color: #A71930;
+@gutter-width: 20px;
+@default-color-white: #FFF;
+@default-color-red: #F00;
+@byline-font-family: 'FranklinGothic-Medium';
+@headline-font-size: 18px;
+
+*, 
+*:before,
+*:after {
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+}
+
+body {
+	margin: 0 auto;
+	font-family: 'FranklinGothic-Book';
+	font-size: 14px;
+	line-height: 18px;
+	background: #fff;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: normal;
+    font-family: 'DINEngschriftStd';
+    color: @headline-color;
+    text-transform: uppercase;
+    margin: 20px 0 10px;
+}
+
+h2,
+h3 {
+	font-size: 20px;
+}
+
+a {
+    font-family: 'DINEngschriftStd';
+    text-transform: uppercase;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+a:hover {
+    color: @headline-color;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+    border-style: hidden;
+    box-shadow: 4px 4px 4px #dedede;
+    font-size: 12px;
+}
+
+th,
+.table-fixie tr td:first-of-type,
+.table-fixie tr th:first-of-type {
+    background: #ddd;
+    text-align: left;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.table-fixie tr th:first-of-type {
+    width: 70px;
+}
+
+td {
+    background: #fff;
+}
+
+th,
+td {
+    padding: 10px 0;
+    text-align: center;
+    border: 1px solid #b9b9b9;
+}
+
+header,
+footer {
+	background: #000;
+
+	a {
+		color: @default-color-white;
+	}
+}
+
+.container {
+	background: #fff;
+	margin: 0 auto;
+	padding: 0 @gutter-width / 2 @gutter-width;
+	position: relative;
+}
+
+#home_index {
+	background: #000;
+}
+
+.container-breaking-bar {
+	display: none;
+	line-height: 40px;
+	text-align: center;
+	font-size: 17px;
+	background: @default-color-red;
+	color: @default-color-white;
+
+	.container {
+		background: @default-color-red;
+		padding-bottom: 0;
+	}
+
+	strong {
+		font-weight: normal;
+		font-family: @byline-font-family;
+	}
+}
+
+.container-navbar {
+	height: 50px;
+	background: #000;
+
+	.container {
+		padding-bottom: 0;
+	}
+}
+
+.container-columns {
+
+	&>aside {
+		.container-ad {
+			margin: 20px 0;
+		}
+	}
+}
+
+.logo-tigerwoods {
+	width: 157px;
+	height: 50px;
+	padding: 7px 0;
+	display: block;
+	position: absolute;
+	left: @gutter-width / 2;
+	top: 0;
+	z-index: 100;
+}
+
+.button-megamenu {
+	height: 50px;
+	width: 30px;
+	padding: 14px 0;
+	display: block;
+	position: absolute;
+	right: @gutter-width / 2;
+	top: 0;
+}
+
+nav[role="megamenu"] {
+	position: absolute;
+	top: 50px;
+	left: 0;
+	background: #333;
+	padding: 10px;
+	font-size: 22px;
+	color: #fff;
+	z-index: 10;
+
+	nav[role="megamenu-submenu"] {
+		display: none;
+	}
+
+	& > ul > li {
+		padding: 10px 20px;
+		width: 50%;
+		float: left;
+	}
+}
+
+.container-tournament {
+	background: #eee;
+}
+
+.module-tournament-detail {
+	.table-horizontal {
+		display: none;
+	}
+}
+
+.article-index {
+	article {
+		margin-bottom: @gutter-width / 2;
+
+		a {
+			color: #000;
+			&:hover {
+				color: @default-color-red;
+			}
+		}
+
+		& + article {
+			border-top: 1px solid #eee;
+			padding-top: @gutter-width / 2;
+		}
+
+		h3 {
+			margin-top: 0;
+			font-size: @headline-font-size;
+		}
+
+		img {
+			display: none;
+			float: left;
+			margin-right: 10px;
+		}
+	}
+}
+
+footer {
+	.container {
+		background: #000;
+	}
+
+	.container-footer {
+		display: none;
+	}
+}

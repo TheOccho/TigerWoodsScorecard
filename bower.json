@@ -1,0 +1,29 @@
+{
+  "name": "tigerwoods-scorecard",
+  "version": "1.0.7",
+  "authors": [
+    "chriso <chris.occhipinti@mlb.com>"
+  ],
+  "description": "Tigerwoods Scorecard Widget",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "bin",
+    "Gruntfile.js",
+    "package.json",
+    "bower.json",
+    "require.config.js",
+    "scorecard.html"
+  ],
+  "devDependencies": {
+    "jquery": "~2.1",
+    "requirejs": "~2.1",
+	"requirejs-hogan-plugin": "~0.3.0",
+    "ensureArray": "~1.0.0",
+    "paperboy": "~1.3.2",
+    "xml2json": "~1.0.0"
+  }
+}

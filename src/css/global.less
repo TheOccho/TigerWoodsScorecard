@@ -1,0 +1,179 @@
+@import "lib";
+
+/*-----------------------------
+	GLOBAL: Across all views
+ -----------------------------*/
+.active {
+	font-weight: bold;
+}
+
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
+}
+
+.center {
+	margin: 0 auto;
+	text-align: center;
+	display: block;
+}
+		
+.text-left {
+	text-align: left !important;
+}
+
+.text-right {
+	text-align: right !important;
+}
+
+.text-center {
+	text-align: center !important;
+}
+
+.image-left {
+	float: left;
+	margin: 0 .8em .2em 0;
+}
+
+.image-right {
+	float: right;
+	margin: 0 0 .2em .8em;
+}
+
+.display-none {
+	display: none !important;
+}
+
+.display-table-cell {
+	display: table-cell !important;
+}
+
+.display-table-row {
+	display: table-row !important;
+}
+
+.hide-flow {
+	overflow: hidden;
+}
+
+.clear {
+	clear: both;
+}
+
+.no-background {
+	background: none !important;
+}
+
+.no-border {
+	border: none !important;
+}
+
+.no-bold {
+	font-weight: normal !important;
+}
+
+.no-wrap {
+	white-space: nowrap;
+}
+
+.white, a:link.white, a:visited.white, a:hover.white {
+	color: white;
+}
+
+.black, a:link.black, a:visited.black, a:hover.black {
+	color: black;
+}
+
+.hidden {
+	display: none;
+}
+
+.clearfix {
+	&:before, &:after {
+		content: " ";
+		display: table;
+	}
+
+	&:after {
+		clear: both;
+	}
+}
+
+.screen-reader {
+	position: absolute;
+	width: 1px;
+	height: 1px;
+	padding: 0;
+	margin: -1px;
+	overflow: hidden;
+	clip: rect(0,0,0,0);
+	border: 0;
+}
+
+.text-uc {
+	text-transform: uppercase;
+}
+
+#round-selector {
+	margin-top: 22px;
+}
+
+#round-selector span#label {
+	font-family: "FranklinGothic-Book", Helvetica, Arial, sans-serif;
+	font-size: 17px;
+	margin-right: 15px;
+}
+
+#round-selector ul {
+	list-style:none;
+	margin: 0;
+	padding: 0;
+}
+
+#round-selector ul li {
+	font-family: "FranklinGothic-Book", Helvetica, Arial, sans-serif;
+	font-size: 17px;
+	display: inline-block;
+	margin: 0 10px;
+	cursor: pointer;
+}
+
+#round-selector ul li.active {
+	color: #a71930;
+}
+
+#round-selector ul li.disabled {
+	color: #ccc;
+	cursor: auto;
+}
+
+.score-double-eagle {
+    background: @score-double-eagle;
+}
+
+.score-eagle {
+    background: @score-eagle;
+}
+
+.score-birdie {
+    background: @score-birdie;
+}
+
+.score-par {
+    background: @score-par;
+}
+
+.score-bogey {
+    background: @score-bogey;
+}
+
+.score-double-bogey {
+    background: @score-double-bogey;
+}
+
+.score-3plus-bogey {
+    background: @score-3plus-bogey;
+}

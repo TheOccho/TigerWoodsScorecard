@@ -1,0 +1,84 @@
+<Scorecards CurrentTime="7:30 PM ET. 03/10/2013" Directory="" TournamentName="World Golf Championships-Cadillac Championship" TournamentTourType="TOR" TournamentNumber="473" IsEventOfficial="Yes" CurrentRound="4" HostCourse="Trump Doral Golf Club and Resort" Yardage="7,334" Purse="$8,750,000" ScheduledDates=" 3/7/2013 - 3/10/2013" WinningShare="$1,500,000">
+  <Player IsMember="Yes" IsBackNineStart="No" PlayerName="Tiger Woods" TournamentPlayerId="08793" ParRelativeScore="-19" Score="269" StartingHole="1" ParRelativeScoreToday="-1" NumberOfHolesPlayed="F" CurrentPosition="1" StandingsSortIndex="1">
+    <Round ParRelativeScoreToday="-6" RoundNumber="1" RoundScore="66" Out="32" In="34" Front9Par="36" Back9Par="36" TotalPar="72" CourseName="Trump Doral Golf Club and Resort" StartingHole="10">
+      <Hole HoleNumber="1" HolePar="5" HoleScore="4" HoleParRelativeScoreSoFar="-3" InTheHoleTS="03/07/2013 2:25pm"/>
+      <Hole HoleNumber="2" HolePar="4" HoleScore="3" HoleParRelativeScoreSoFar="-4" InTheHoleTS="03/07/2013 2:39pm"/>
+      <Hole HoleNumber="3" HolePar="4" HoleScore="5" HoleParRelativeScoreSoFar="-3" InTheHoleTS="03/07/2013 2:55pm"/>
+      <Hole HoleNumber="4" HolePar="3" HoleScore="2" HoleParRelativeScoreSoFar="-4" InTheHoleTS="03/07/2013 3:04pm"/>
+      <Hole HoleNumber="5" HolePar="4" HoleScore="4" HoleParRelativeScoreSoFar="-4" InTheHoleTS="03/07/2013 3:21pm"/>
+      <Hole HoleNumber="6" HolePar="4" HoleScore="4" HoleParRelativeScoreSoFar="-4" InTheHoleTS="03/07/2013 3:37pm"/>
+      <Hole HoleNumber="7" HolePar="4" HoleScore="3" HoleParRelativeScoreSoFar="-5" InTheHoleTS="03/07/2013 3:51pm"/>
+      <Hole HoleNumber="8" HolePar="5" HoleScore="4" HoleParRelativeScoreSoFar="-6" InTheHoleTS="03/07/2013 4:09pm"/>
+      <Hole HoleNumber="9" HolePar="3" HoleScore="3" HoleParRelativeScoreSoFar="-6" InTheHoleTS="03/07/2013 4:22pm"/>
+      <Hole HoleNumber="10" HolePar="5" HoleScore="5" HoleParRelativeScoreSoFar="0" InTheHoleTS="03/07/2013 12:09pm"/>
+      <Hole HoleNumber="11" HolePar="4" HoleScore="3" HoleParRelativeScoreSoFar="-1" InTheHoleTS="03/07/2013 12:24pm"/>
+      <Hole HoleNumber="12" HolePar="5" HoleScore="4" HoleParRelativeScoreSoFar="-2" InTheHoleTS="03/07/2013 12:42pm"/>
+      <Hole HoleNumber="13" HolePar="3" HoleScore="4" HoleParRelativeScoreSoFar="-1" InTheHoleTS="03/07/2013 12:56pm"/>
+      <Hole HoleNumber="14" HolePar="4" HoleScore="5" HoleParRelativeScoreSoFar="0" InTheHoleTS="03/07/2013 1:13pm"/>
+      <Hole HoleNumber="15" HolePar="3" HoleScore="3" HoleParRelativeScoreSoFar="0" InTheHoleTS="03/07/2013 1:24pm"/>
+      <Hole HoleNumber="16" HolePar="4" HoleScore="3" HoleParRelativeScoreSoFar="-1" InTheHoleTS="03/07/2013 1:37pm"/>
+      <Hole HoleNumber="17" HolePar="4" HoleScore="4" HoleParRelativeScoreSoFar="-1" InTheHoleTS="03/07/2013 1:51pm"/>
+      <Hole HoleNumber="18" HolePar="4" HoleScore="3" HoleParRelativeScoreSoFar="-2" InTheHoleTS="03/07/2013 2:08pm"/>
+    </Round>
+    <Round ParRelativeScoreToday="-7" RoundNumber="2" RoundScore="65" Out="32" In="33" Front9Par="36" Back9Par="36" TotalPar="72" CourseName="Trump Doral Golf Club and Resort" StartingHole="1">
+      <Hole HoleNumber="1" HolePar="5" HoleScore="5" HoleParRelativeScoreSoFar="0" InTheHoleTS="03/08/2013 1:14pm"/>
+      <Hole HoleNumber="2" HolePar="4" HoleScore="4" HoleParRelativeScoreSoFar="0" InTheHoleTS="03/08/2013 1:26pm"/>
+      <Hole HoleNumber="3" HolePar="4" HoleScore="4" HoleParRelativeScoreSoFar="0" InTheHoleTS="03/08/2013 1:42pm"/>
+      <Hole HoleNumber="4" HolePar="3" HoleScore="2" HoleParRelativeScoreSoFar="-1" InTheHoleTS="03/08/2013 2:00pm"/>
+      <Hole HoleNumber="5" HolePar="4" HoleScore="3" HoleParRelativeScoreSoFar="-2" InTheHoleTS="03/08/2013 2:13pm"/>
+      <Hole HoleNumber="6" HolePar="4" HoleScore="4" HoleParRelativeScoreSoFar="-2" InTheHoleTS="03/08/2013 2:31pm"/>
+      <Hole HoleNumber="7" HolePar="4" HoleScore="3" HoleParRelativeScoreSoFar="-3" InTheHoleTS="03/08/2013 2:47pm"/>
+      <Hole HoleNumber="8" HolePar="5" HoleScore="4" HoleParRelativeScoreSoFar="-4" InTheHoleTS="03/08/2013 3:04pm"/>
+      <Hole HoleNumber="9" HolePar="3" HoleScore="3" HoleParRelativeScoreSoFar="-4" InTheHoleTS="03/08/2013 3:18pm"/>
+      <Hole HoleNumber="10" HolePar="5" HoleScore="4" HoleParRelativeScoreSoFar="-5" InTheHoleTS="03/08/2013 3:39pm"/>
+      <Hole HoleNumber="11" HolePar="4" HoleScore="3" HoleParRelativeScoreSoFar="-6" InTheHoleTS="03/08/2013 3:54pm"/>
+      <Hole HoleNumber="12" HolePar="5" HoleScore="5" HoleParRelativeScoreSoFar="-6" InTheHoleTS="03/08/2013 4:10pm"/>
+      <Hole HoleNumber="13" HolePar="3" HoleScore="2" HoleParRelativeScoreSoFar="-7" InTheHoleTS="03/08/2013 4:23pm"/>
+      <Hole HoleNumber="14" HolePar="4" HoleScore="5" HoleParRelativeScoreSoFar="-6" InTheHoleTS="03/08/2013 4:41pm"/>
+      <Hole HoleNumber="15" HolePar="3" HoleScore="3" HoleParRelativeScoreSoFar="-6" InTheHoleTS="03/08/2013 4:51pm"/>
+      <Hole HoleNumber="16" HolePar="4" HoleScore="3" HoleParRelativeScoreSoFar="-7" InTheHoleTS="03/08/2013 5:03pm"/>
+      <Hole HoleNumber="17" HolePar="4" HoleScore="4" HoleParRelativeScoreSoFar="-7" InTheHoleTS="03/08/2013 5:20pm"/>
+      <Hole HoleNumber="18" HolePar="4" HoleScore="4" HoleParRelativeScoreSoFar="-7" InTheHoleTS="03/08/2013 5:38pm"/>
+    </Round>
+    <Round ParRelativeScoreToday="-5" RoundNumber="3" RoundScore="67" Out="33" In="34" Front9Par="36" Back9Par="36" TotalPar="72" CourseName="Trump Doral Golf Club and Resort" StartingHole="1">
+      <Hole HoleNumber="1" HolePar="5" HoleScore="4" HoleParRelativeScoreSoFar="-1" InTheHoleTS="03/09/2013 1:58pm"/>
+      <Hole HoleNumber="2" HolePar="4" HoleScore="3" HoleParRelativeScoreSoFar="-2" InTheHoleTS="03/09/2013 2:06pm"/>
+      <Hole HoleNumber="3" HolePar="4" HoleScore="3" HoleParRelativeScoreSoFar="-3" InTheHoleTS="03/09/2013 2:24pm"/>
+      <Hole HoleNumber="4" HolePar="3" HoleScore="3" HoleParRelativeScoreSoFar="-3" InTheHoleTS="03/09/2013 2:39pm"/>
+      <Hole HoleNumber="5" HolePar="4" HoleScore="5" HoleParRelativeScoreSoFar="-2" InTheHoleTS="03/09/2013 2:52pm"/>
+      <Hole HoleNumber="6" HolePar="4" HoleScore="4" HoleParRelativeScoreSoFar="-2" InTheHoleTS="03/09/2013 3:09pm"/>
+      <Hole HoleNumber="7" HolePar="4" HoleScore="4" HoleParRelativeScoreSoFar="-2" InTheHoleTS="03/09/2013 3:23pm"/>
+      <Hole HoleNumber="8" HolePar="5" HoleScore="4" HoleParRelativeScoreSoFar="-3" InTheHoleTS="03/09/2013 3:39pm"/>
+      <Hole HoleNumber="9" HolePar="3" HoleScore="3" HoleParRelativeScoreSoFar="-3" InTheHoleTS="03/09/2013 3:49pm"/>
+      <Hole HoleNumber="10" HolePar="5" HoleScore="4" HoleParRelativeScoreSoFar="-4" InTheHoleTS="03/09/2013 4:06pm"/>
+      <Hole HoleNumber="11" HolePar="4" HoleScore="4" HoleParRelativeScoreSoFar="-4" InTheHoleTS="03/09/2013 4:23pm"/>
+      <Hole HoleNumber="12" HolePar="5" HoleScore="5" HoleParRelativeScoreSoFar="-4" InTheHoleTS="03/09/2013 4:39pm"/>
+      <Hole HoleNumber="13" HolePar="3" HoleScore="3" HoleParRelativeScoreSoFar="-4" InTheHoleTS="03/09/2013 4:48pm"/>
+      <Hole HoleNumber="14" HolePar="4" HoleScore="4" HoleParRelativeScoreSoFar="-4" InTheHoleTS="03/09/2013 5:02pm"/>
+      <Hole HoleNumber="15" HolePar="3" HoleScore="2" HoleParRelativeScoreSoFar="-5" InTheHoleTS="03/09/2013 5:11pm"/>
+      <Hole HoleNumber="16" HolePar="4" HoleScore="4" HoleParRelativeScoreSoFar="-5" InTheHoleTS="03/09/2013 5:23pm"/>
+      <Hole HoleNumber="17" HolePar="4" HoleScore="5" HoleParRelativeScoreSoFar="-4" InTheHoleTS="03/09/2013 5:37pm"/>
+      <Hole HoleNumber="18" HolePar="4" HoleScore="3" HoleParRelativeScoreSoFar="-5" InTheHoleTS="03/09/2013 5:54pm"/>
+    </Round>
+    <Round ParRelativeScoreToday="-1" RoundNumber="4" RoundScore="71" Out="34" In="37" Front9Par="36" Back9Par="36" TotalPar="72" CourseName="Trump Doral Golf Club and Resort" StartingHole="1">
+      <Hole HoleNumber="1" HolePar="5" HoleScore="5" HoleParRelativeScoreSoFar="0" InTheHoleTS="03/10/2013 2:53pm"/>
+      <Hole HoleNumber="2" HolePar="4" HoleScore="3" HoleParRelativeScoreSoFar="-1" InTheHoleTS="03/10/2013 3:04pm"/>
+      <Hole HoleNumber="3" HolePar="4" HoleScore="4" HoleParRelativeScoreSoFar="-1" InTheHoleTS="03/10/2013 3:19pm"/>
+      <Hole HoleNumber="4" HolePar="3" HoleScore="2" HoleParRelativeScoreSoFar="-2" InTheHoleTS="03/10/2013 3:29pm"/>
+      <Hole HoleNumber="5" HolePar="4" HoleScore="4" HoleParRelativeScoreSoFar="-2" InTheHoleTS="03/10/2013 3:43pm"/>
+      <Hole HoleNumber="6" HolePar="4" HoleScore="4" HoleParRelativeScoreSoFar="-2" InTheHoleTS="03/10/2013 3:56pm"/>
+      <Hole HoleNumber="7" HolePar="4" HoleScore="4" HoleParRelativeScoreSoFar="-2" InTheHoleTS="03/10/2013 4:10pm"/>
+      <Hole HoleNumber="8" HolePar="5" HoleScore="5" HoleParRelativeScoreSoFar="-2" InTheHoleTS="03/10/2013 4:28pm"/>
+      <Hole HoleNumber="9" HolePar="3" HoleScore="3" HoleParRelativeScoreSoFar="-2" InTheHoleTS="03/10/2013 4:37pm"/>
+      <Hole HoleNumber="10" HolePar="5" HoleScore="4" HoleParRelativeScoreSoFar="-3" InTheHoleTS="03/10/2013 4:55pm"/>
+      <Hole HoleNumber="11" HolePar="4" HoleScore="4" HoleParRelativeScoreSoFar="-3" InTheHoleTS="03/10/2013 5:11pm"/>
+      <Hole HoleNumber="12" HolePar="5" HoleScore="5" HoleParRelativeScoreSoFar="-3" InTheHoleTS="03/10/2013 5:28pm"/>
+      <Hole HoleNumber="13" HolePar="3" HoleScore="3" HoleParRelativeScoreSoFar="-3" InTheHoleTS="03/10/2013 5:38pm"/>
+      <Hole HoleNumber="14" HolePar="4" HoleScore="4" HoleParRelativeScoreSoFar="-3" InTheHoleTS="03/10/2013 5:51pm"/>
+      <Hole HoleNumber="15" HolePar="3" HoleScore="3" HoleParRelativeScoreSoFar="-3" InTheHoleTS="03/10/2013 6:00pm"/>
+      <Hole HoleNumber="16" HolePar="4" HoleScore="5" HoleParRelativeScoreSoFar="-2" InTheHoleTS="03/10/2013 6:16pm"/>
+      <Hole HoleNumber="17" HolePar="4" HoleScore="4" HoleParRelativeScoreSoFar="-2" InTheHoleTS="03/10/2013 6:27pm"/>
+      <Hole HoleNumber="18" HolePar="4" HoleScore="5" HoleParRelativeScoreSoFar="-1" InTheHoleTS="03/10/2013 6:43pm"/>
+    </Round>
+  </Player>
+</Scorecards>
